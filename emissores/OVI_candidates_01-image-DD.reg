@@ -1,0 +1,15 @@
+# Region file format: DS9 version 4.1
+global color=red dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+point(1587.5245,1648.0717) # point=x 10
+point(1593.8903,1521.9143) # point=x 10
+point(1702.7583,1233.4963) # point=x 10
+point(959.50353,1736.6492) # point=x 10
+point(938.03045,1722.9328) # point=x 10
+point(634.02141,696.13446) # point=x 10
+point(1110.1812,582.91738) # point=x 10
+point(1125.9214,572.20065) # point=x 10
+point(1875.3237,1453.1318) # point=x 10
+point(1090.0103,620.51267) # point=x 10
+point(2042.1419,1364.0806) # point=x 10
+point(2036.7928,1378.0347) # point=x 10
